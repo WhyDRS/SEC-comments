@@ -25,7 +25,7 @@ The addendum is supplemental to the GNU Free Documentation License and does not 
 :::successor and reuse
 
 :::shoeld be a markdown file
-htey do 0. SECTION
+htey do 0. SECTION //crossrefs//
 planitext
 
 :::chekch defeinoin of gov and spececfiarlly public-interest
@@ -53,17 +53,25 @@ If these methods are not reasonably available in the document's format, the requ
 
 ## Government use
 
-Notwithstanding any restriction, condition, or obligation in the GFDL, the following entities receive the unrestricted grant described below:
+The following entities may use Content however they choose, in whole or in part and for any purpose:
 
 - the United States Government, including the Securities and Exchange Commission;
 - any other sovereign state; and
 - any national, subnational, or supranational public authority.
 
-The grant includes, without limitation, the right to reproduce, modify, adapt, incorporate, distribute, redistribute, publish, or otherwise use Content, in whole or in part, for any purpose and without complying with the GFDL.
+This includes, without limitation, reproduction, modification, adaptation, incorporation, distribution, redistribution, and publication.
 
-This grant is non-transferable and non-sublicensable. Distributing or publishing Content under this grant does not extend the grant to a recipient that is not one of the entities listed above.
+## Contributor waiver and attribution
 
-Nothing in this grant limits any rights otherwise available under the GFDL or applicable law.
+By contributing Content, to the extent of your rights in that Content, you make the following waiver and fallback license for the benefit of the entities listed under Government use.
+
+To the fullest extent permitted by law, you permanently, irrevocably, and unconditionally waive and agree not to assert against any listed entity any copyright or related right you hold in that Content, including any neighboring, moral, or database right.
+
+To the extent that any part of the waiver is invalid or ineffective, you grant each listed entity a worldwide, royalty-free, nonexclusive, irrevocable, unconditional, non-transferable, and non-sublicensable license, for the maximum duration permitted by law, to exercise the rights described under Government use in any medium and without any condition or compliance with the GFDL.
+
+No listed entity is required to identify or attribute you or any other contributor when exercising these rights.
+
+Distributing or publishing Content does not extend the waiver or fallback license to a recipient that is not one of the entities listed under Government use. Nothing in this section limits any rights otherwise available under the GFDL or applicable law.
 
 ## Reference-material exception
 
