@@ -30,7 +30,7 @@ planitext
 
 :::chekch defeinoin of gov and spececfiarlly public-interest
 
-# DRS Community Publication Modifiers v1.0
+# DRS Community Publication Modifiers
 
 the GNU Free Documentation License, version 1.3 or any later version, (the "GFDL") governs Content authored in this repository, subject to this supplemental addendum or its successor versions.
 
@@ -59,6 +59,8 @@ Any such reference material remains subject to its own copyright status, license
 Where a reference copy is retained only as an intermediate research source, its presence does not make that source part of the GFDL-licensed comment or require its redistribution with the resulting comment.
 
 ## successor versions
+
+This addendum is version 1.0 of the DRS Community Publication Modifiers. A covered document may specify that version 1.0 or any later version applies. In that case, a licensee may follow either version 1.0 or any later version published as final by WhyDRS at the repository identified in the document’s licensing notice. Draft versions do not apply. A later version may grant additional permissions but does not revoke permissions already granted under an earlier version.
 
 ## Cititnig usage
 
