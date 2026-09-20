@@ -32,7 +32,7 @@ planitext
 
 # DRS Community Publication Modifiers
 
-The GNU Free Documentation License, version 1.3 or any later version (the "GFDL"), governs Content authored in this repository, subject to this supplemental addendum or its successor versions.
+The GNU Free Documentation License, version 1.3 or any later version, (the "GFDL") governs Content authored in this repository, subject to this supplemental addendum or its successor versions.
 
 "Content" means comments, drafts, notes, annotations, summaries, and other original material contributed to this repository, but only to the extent that the contributor or copyright holder has authority to license it. Content excludes imported or preserved third-party reference material unless its copyright holder expressly applies these terms.
 
@@ -40,7 +40,10 @@ if you have suggestnsoi on how to improve thse Modififers, feel free to eopn a p
 
 ## Incorporation by reference
 
-A document containing Content may satisfy its obligation to identify the applicable GFDL and this addendum by incorporating the former by reference, including through a hyperlink to a publicly accessible copy, without reproducing their full text in the document itself.
+A document containing Content may identify the applicable GFDL and this addendum by incorporating both by reference, without reproducing their full text in the document itself. Incorporation by reference may be accomplished by:
+
+1. linking directly to a publicly accessible copy of each document; or
+2. linking to a publicly accessible repository landing page that clearly identifies and links to both documents.
 
 ## Government use
 
